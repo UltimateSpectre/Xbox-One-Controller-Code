@@ -7,6 +7,5 @@ The main objective was to create a controller that was functional, affordable, a
 Throughout the design process, the project evolved through testing, feedback, and redesign. One major shift was moving from touchpad sensors to joysticks, which proved to be a more practical and cost-effective solution based on the user’s physical abilities. The process also revealed the importance of understanding the user’s environment, available technology, and daily challenges before finalizing design decisions.
 
 A key takeaway from this project was the importance of empathetic design. Effective product development is not only about creating something that works, but about building something that fits naturally into the user’s life. By placing the user at the center of the design process, this project demonstrated how accessibility-driven innovation can create more meaningful and practical solutions.
-![IMG_0172](https://github.com/user-attachments/assets/37408bd3-149f-4685-9ad3-d02dedd3ec61)
 
 
