@@ -9,4 +9,4 @@ Throughout the design process, the project evolved through testing, feedback, an
 A key takeaway from this project was the importance of empathetic design. Effective product development is not only about creating something that works, but about building something that fits naturally into the user’s life. By placing the user at the center of the design process, this project demonstrated how accessibility-driven innovation can create more meaningful and practical solutions.
 
 
-![IMG_0172](https://github.com/user-attachments/assets/c58e1e8d-7395-413d-9d1c-821cb01bd3aa)
+(https://github.com/user-attachments/assets/c58e1e8d-7395-413d-9d1c-821cb01bd3aa)
